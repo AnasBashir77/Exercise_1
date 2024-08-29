@@ -76,7 +76,7 @@ console.log("---------------------------")
 
 var url = "https://www.google.com"
 console.log("before=https://www.google.com")
-console.log("after");
+console.log("After");
 console.log(url.replace("https://"," "));
  
  
